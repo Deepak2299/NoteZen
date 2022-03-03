@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "335882296430",
+    "project_id": "notezen-9910e",
+    "storage_bucket": "notezen-9910e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335882296430:android:9832257adc6ac293a11a7f",
+        "android_client_info": {
+          "package_name": "com.webninjasolutions.notezen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335882296430-f5uo6d530vdi9dptunooe58m6ij34et2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.webninjasolutions.notezen",
+            "certificate_hash": "f06304a8c482c556312deb7c7fffad2670d634fb"
+          }
+        },
+        {
+          "client_id": "335882296430-caiholfjlocav2thfm70s51jarja0mtm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgUlIM0kXky-reHuMF-oLnzseynUdni8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335882296430-caiholfjlocav2thfm70s51jarja0mtm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
