@@ -1,16 +1,11 @@
-# note_app
+# NoteZen
 
-A new Flutter application.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+### download link
 
-A few resources to get you started if this is your first Flutter project:
+https://drive.google.com/file/d/12WjuDlrUVgGIe1XhgoxgH_scCQwqs78g/view?usp=sharing
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Demo Video
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://drive.google.com/file/d/1N5EOoPHeQkfMvAySojREDGyfTj9xMeNy/view?usp=sharing
